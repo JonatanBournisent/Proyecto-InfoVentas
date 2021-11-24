@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/05 10:50:31.000.324,=D:\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/04/05 10:50:31.000.294,=D:\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/05/16 09:24:57.000.033,=D:\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/05/16 09:24:57.000.006,=D:\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/05/16 09:25:41.000.966,D:\Documentos\Embarcadero\Studio\Projects\Unit1.cpp=D:\Documentos\Proyectos Builder XE8\InfoVentas\uMain.cpp</Transaction>
+    <Transaction>2020/05/16 09:25:41.000.966,D:\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=D:\Documentos\Proyectos Builder XE8\InfoVentas\uMain.dfm</Transaction>
+    <Transaction>2020/05/16 09:25:41.000.966,D:\Documentos\Embarcadero\Studio\Projects\Unit1.h=D:\Documentos\Proyectos Builder XE8\InfoVentas\uMain.h</Transaction>
+    <Transaction>2020/05/16 09:26:33.000.454,D:\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h=D:\Documentos\Proyectos Builder XE8\InfoVentas\pInfoVentasPCH1.h</Transaction>
+    <Transaction>2020/05/16 09:26:40.000.143,D:\Documentos\Embarcadero\Studio\Projects\Project1.cbproj=D:\Documentos\Proyectos Builder XE8\InfoVentas\pInfoVentas.cbproj</Transaction>
+    <Transaction>2020/05/27 18:58:27.000.848,=D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.cpp</Transaction>
+    <Transaction>2020/05/27 18:59:44.000.453,D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.dfm=D:\Documentos\Proyectos Builder XE8\InfoVentas\uMostrarCombinaciones.dfm</Transaction>
+    <Transaction>2020/05/27 18:59:44.000.453,D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.h=D:\Documentos\Proyectos Builder XE8\InfoVentas\uMostrarCombinaciones.h</Transaction>
+    <Transaction>2020/05/27 18:59:44.000.453,D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.cpp=D:\Documentos\Proyectos Builder XE8\InfoVentas\uMostrarCombinaciones.cpp</Transaction>
+    <Transaction>2020/05/30 14:52:47.000.739,=D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.cpp</Transaction>
+    <Transaction>2020/05/30 14:55:38.000.301,D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.h=D:\Documentos\Proyectos Builder XE8\InfoVentas\uVerPedidos.h</Transaction>
+    <Transaction>2020/05/30 14:55:38.000.301,D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.cpp=D:\Documentos\Proyectos Builder XE8\InfoVentas\uVerPedidos.cpp</Transaction>
+    <Transaction>2020/05/30 14:55:38.000.301,D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.dfm=D:\Documentos\Proyectos Builder XE8\InfoVentas\uVerPedidos.dfm</Transaction>
+    <Transaction>2020/06/03 08:02:36.000.521,=D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.cpp</Transaction>
+    <Transaction>2020/06/03 08:02:56.000.283,D:\Documentos\Proyectos Builder XE8\InfoVentas\uAlarma.dfm=D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.dfm</Transaction>
+    <Transaction>2020/06/03 08:02:56.000.283,D:\Documentos\Proyectos Builder XE8\InfoVentas\uAlarma.h=D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.h</Transaction>
+    <Transaction>2020/06/03 08:02:56.000.283,D:\Documentos\Proyectos Builder XE8\InfoVentas\uAlarma.cpp=D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.cpp</Transaction>
+    <Transaction>2020/06/03 08:41:50.000.995,=D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.cpp</Transaction>
+    <Transaction>2020/06/03 08:42:30.000.354,D:\Documentos\Proyectos Builder XE8\InfoVentas\uGestionarAlarmas.cpp=D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.cpp</Transaction>
+    <Transaction>2020/06/03 08:42:30.000.354,D:\Documentos\Proyectos Builder XE8\InfoVentas\uGestionarAlarmas.h=D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.h</Transaction>
+    <Transaction>2020/06/03 08:42:30.000.354,D:\Documentos\Proyectos Builder XE8\InfoVentas\uGestionarAlarmas.dfm=D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.dfm</Transaction>
+    <Transaction>2020/06/03 08:48:44.000.503,=D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.cpp</Transaction>
+    <Transaction>2020/06/03 08:48:59.000.722,D:\Documentos\Proyectos Builder XE8\InfoVentas\uConfigurarAlarma.h=D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.h</Transaction>
+    <Transaction>2020/06/03 08:48:59.000.722,D:\Documentos\Proyectos Builder XE8\InfoVentas\uConfigurarAlarma.cpp=D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.cpp</Transaction>
+    <Transaction>2020/06/03 08:48:59.000.722,D:\Documentos\Proyectos Builder XE8\InfoVentas\uConfigurarAlarma.dfm=D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.dfm</Transaction>
+    <Transaction>2020/06/14 18:48:57.000.463,=D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.cpp</Transaction>
+    <Transaction>2020/06/14 18:49:07.000.543,D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.cpp=D:\Documentos\Proyectos Builder XE8\InfoVentas\uConfiguraciones.cpp</Transaction>
+    <Transaction>2020/06/14 18:49:07.000.543,D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.dfm=D:\Documentos\Proyectos Builder XE8\InfoVentas\uConfiguraciones.dfm</Transaction>
+    <Transaction>2020/06/14 18:49:07.000.543,D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.h=D:\Documentos\Proyectos Builder XE8\InfoVentas\uConfiguraciones.h</Transaction>
+    <Transaction>2020/07/11 11:22:24.000.088,=D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.cpp</Transaction>
+    <Transaction>2020/07/11 11:23:18.000.594,D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.dfm=D:\Documentos\Proyectos Builder XE8\InfoVentas\uVerDetallePedidos.dfm</Transaction>
+    <Transaction>2020/07/11 11:23:18.000.594,D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.h=D:\Documentos\Proyectos Builder XE8\InfoVentas\uVerDetallePedidos.h</Transaction>
+    <Transaction>2020/07/11 11:23:18.000.594,D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.cpp=D:\Documentos\Proyectos Builder XE8\InfoVentas\uVerDetallePedidos.cpp</Transaction>
+    <Transaction>2021/06/08 08:47:49.000.802,=D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.cpp</Transaction>
+    <Transaction>2021/06/08 08:48:11.000.774,D:\Documentos\Proyectos Builder XE8\InfoVentas\fRecetas.cpp=D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.cpp</Transaction>
+    <Transaction>2021/06/08 08:48:11.000.774,D:\Documentos\Proyectos Builder XE8\InfoVentas\fRecetas.h=D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.h</Transaction>
+    <Transaction>2021/06/08 08:48:11.000.774,D:\Documentos\Proyectos Builder XE8\InfoVentas\fRecetas.dfm=D:\Documentos\Proyectos Builder XE8\InfoVentas\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
